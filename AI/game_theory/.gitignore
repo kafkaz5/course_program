@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+player(1).py
+player(2).py
+player(3).py
+player(4).py
