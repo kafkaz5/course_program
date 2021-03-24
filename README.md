@@ -1,3 +1,4 @@
 # Course Program
 ===============
-Those python files are for lab assignments, for AI
+    Those python files are for lab assignments, for AI
+
