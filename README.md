@@ -1,3 +1,3 @@
-# course_program
-This is a test
+# Course Program
 ===============
+Those python files are for lab assignments, for AI
